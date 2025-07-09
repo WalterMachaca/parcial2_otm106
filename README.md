@@ -9,9 +9,9 @@
 ## Captura de Gráficas
 
 Captura gráficas 
-![Captura Gráficas](CAPTURAS/Gráficas.PNG)
+![Captura Gráficas](Capturas/Gráficas.PNG)
 
 ## Captura de Macros
 
 Captura Macros
-![Captura Macros](CAPTURAS/Macros.PNG)
+![Captura Macros](Capturas/Macros.PNG)
