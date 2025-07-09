@@ -2,7 +2,7 @@
 
 ## Estudiante: Walter Antonio Machaca Anze
 
-## Materia: Sistemas informáticos
+## Materia: Ofimática y tecnología multimedia OTM-106
 
 ## Fecha: 08/07/2025
 
